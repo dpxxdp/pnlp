@@ -1,0 +1,17 @@
+{
+  "name": "pnlp-express",
+  "version": "0.0.0",
+  "description": "pnlp-express",
+  "main": "app.js",
+  "author": {
+    "name": "dbarrett",
+    "email": ""
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "*",
+    "express": "3.4.4",
+    "jade": "*",
+    "node-sha1": "^1.0.1",
+    "stylus": "*"
+  }
+}
